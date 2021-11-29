@@ -1,0 +1,13 @@
+manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/nth_factorial$ ./a.out 3
+
+34
+manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/nth_factorial$ ./a.out 10
+
+832040
+manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/nth_factorial$ ./a.out 22
+
+27777890035288
+
+manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/nth_factorial$ ./a.out 26
+
+8944394323791464:
