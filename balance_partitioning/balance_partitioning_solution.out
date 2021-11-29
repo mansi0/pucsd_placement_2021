@@ -1,11 +1,10 @@
-manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/balance_partitioning$ ./a.out 10
-7
-manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/balance_partitioning$ ./a.out 50
-45
-manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/balance_partitioning$ ./a.out 1000
-991
-manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/balance_partitioning$ ./a.out 10000
-9987
-manasi@mansi:~/mcauni/sem3/lovelocal/pucsd_placement_2021/balance_partitioning$ ./a.out 100000
-99984
-
+$ ./a.out 10
+6
+$ ./a.out 50
+36
+$ ./a.out 1000
+708
+$ ./a.out 10000
+7072
+$ ./a.out 100000
+70712
